@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = "6435225"
+API_ID = "20402718"
 # -------------------------------------------------------------
-API_HASH = "4e984ea35f854762dcde906dce426c2d"
+API_HASH = "14de703801bf414bcffadfb59ae21fba"
 # --------------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 MONGO_URL = getenv("MONGO_URL", None)
-OWNER_ID = int(getenv("OWNER_ID", "1808943146"))
-SUPPORT_GRP = "TG_FRIENDSS"
-UPDATE_CHNL = "VIP_CREATORS"
-OWNER_USERNAME = "THE_VIP_BOY"
+OWNER_ID = int(getenv("OWNER_ID", "6458155947"))
+SUPPORT_GRP = "DX_INFO"
+UPDATE_CHNL = "DxAbouT"
+OWNER_USERNAME = "Dx_LUCKY"
     
